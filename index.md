@@ -13,3 +13,5 @@ this is a normal code block
 ``` c++
 int a = 10;
 ```
+- [ ] turn on github pages
+- [x] introduce yourself to world
